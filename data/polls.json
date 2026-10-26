@@ -1,5 +1,5 @@
 {
-  "compiled": "2026-10-03",
+  "compiled": "2026-10-26",
   "notes": "Citywide polls of New York City adults, registered voters or likely voters, fielded Jan 1 to Oct 2, 2026, that measured Mayor Mamdani's job approval, performance rating or favorability. Only four qualifying citywide releases were found and verified: Marist (adults+RV, approval and favorability), Emerson/PIX11 (RV approval), Honan Strategy Group (LV approval, which publishes only the Jewish/non-Jewish split), Suffolk (RV excellent/good/fair/poor performance). The three measure types are not interchangeable. Approval is a binary approve/disapprove question. Performance is a four-point scale on which 'fair' is counted as negative. Favorability is about the person, not the job. 'statewide_context' holds statewide polls (Siena, Quinnipiac, Data for Progress) that report a New York City regional subsample. They are NOT citywide polls, and their NYC subsample sizes are unpublished, so keep them off the main series or label them clearly. Split entries: 'value' = approve/positive %, 'disapprove' = disapprove/negative %. Excluded: congressional-district polls of Democratic primary voters (Emerson/PIX11 May 16-17, 2026, NY-7/10/12), PPP NY-12 (Feb 26-27, 2026) and the Honan December 2025 poll (fielded before the inauguration). The New York Times article from about Oct 1-2, 2026 could not be reached (nytimes.com is blocked for this agent's tools). See gaps.md.",
   "polls": [
     {
@@ -993,6 +993,33 @@
       "url": "https://poll.qu.edu/poll-release?releaseid=3967",
       "url_tables": "https://poll.qu.edu/images/polling/ny/ny09232026_nurk76.pdf",
       "quote": "46 percent favorable, 36 percent unfavorable, 15 percent haven't heard enough about him",
+      "confidence": "HIGH"
+    },
+    {
+      "id": "quinnipiac-20261021",
+      "pollster": "Quinnipiac University",
+      "population": "NYS LV",
+      "field_start": "2026-10-15",
+      "field_end": "2026-10-19",
+      "release_date": "2026-10-21",
+      "n": 1167,
+      "moe": 3.8,
+      "statewide": {
+        "favorable": 43,
+        "unfavorable": 42,
+        "dk": 12
+      },
+      "nyc_subsample": {
+        "favorable": 61,
+        "unfavorable": 27,
+        "dk": 9,
+        "source": "tables PDF (ny10212026_nygb97.pdf), page 5, Q5, AREA column NYC; 4% refused, not counted in dk"
+      },
+      "mode": "live-interviewer RDD, landline and cell",
+      "wording": "Is your opinion of Zohran Mamdani favorable, unfavorable or haven't you heard enough about him?",
+      "url": "https://poll.qu.edu/poll-release?releaseid=3972",
+      "url_tables": "https://poll.qu.edu/images/polling/ny/ny10212026_nygb97.pdf",
+      "quote": "Forty-three percent of likely voters have a favorable opinion of Zohran Mamdani, 42 percent have an unfavorable opinion of him, and 12 percent haven't heard enough about him.",
       "confidence": "HIGH"
     },
     {

@@ -35,3 +35,10 @@ The earlier run's top-level scratchpad files (fy25.pdf, fy26.pdf, mm5-26.pdf, co
 
 ## Oct 2 2026, main session
 Two further web searches ("New York Times Mamdani approval rating poll October 2026", extended; and "Mamdani job approval poll New York City voters September October 2026 Quinnipiac Siena Marist") returned only the Marist, Emerson, Quinnipiac and Suffolk results already recorded. No Times article on Mamdani approval dated Oct 1-2 surfaced; the brief may have been referring to a piece behind the paywall. Still unchecked by a human.
+
+## Oct 26 2026, weekly run
+- Emerson College Polling/PIX11 News, New York State, Oct 3-5, 2026 (900 likely voters, +/- 3.3). https://emersoncollegepolling.com/new-york-2026-poll-governor-hochul-leads-blakeman-by-12/ Release: "A plurality (47%) of New York voters approve of the job Zohran Mamdani is doing as mayor of New York City, while 41% disapprove, and 13% are neutral." Statewide job approval only; the crosstabs (Google Sheet linked from the release) have no region or New York City column, so there is no city reading to record. Not added.
+- Marist, New York State, Oct 1-4, 2026 (1,361 RV). https://maristpoll.marist.edu/polls/midterm-elections-in-new-york-october-2026/ The table packet has no Mamdani question. Not applicable.
+- Emerson/PIX11 NY-17 poll (Oct 1): a single district outside the city. Excluded.
+- Siena: no October statewide New York poll posted on sri.siena.edu as of Oct 26 (October posts are NYT/Siena national and out-of-state polls, a NY-21 district poll and consumer sentiment).
+- Searches: "Mamdani approval poll October 2026" (extended); "Siena poll October 2026 Mamdani favorable New York City"; "Marist poll Mamdani New York City mayor approve October 2026"; "Mamdani poll New York City voters approve mayor new survey" (extended); "Mamdani favorability poll New York City October 2026 Honan OR Manhattan Institute OR Suffolk OR Siena" (extended); a dated "residents approve disapprove" search. Pollster pages checked: Siena, Quinnipiac, Marist, Emerson, Suffolk, Manhattan Institute, Data for Progress, Honan (homepage returned no links). No new citywide poll found.
